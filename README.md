@@ -10,7 +10,7 @@ Mohammed SH Taha Updated Resume
 o PHP Developer  [AppsSquare](https://appssquare.com/?fbclid=IwAR2O7Cj5r_GuyxXH9p2BHro3cAYVpmBh1jAaoL6tFOhyFetSPPHjVY_UtT8)    Dec 2020 - Present   <br />
 o PHP Developer [Alatheer Tech](https://www.facebook.com/AlatheerTech)       1 Jan 2020 – 1 Dec 2020   <br />
 
-- 🔭 I’m currently working as Andorid Developer at [AppsSquare](https://www.facebook.com/appssquare)
+- 🔭 I’m currently working as PHP Developer at [AppsSquare](https://www.facebook.com/appssquare)
 - 📫 Contact me: <br />
                [Linkedin](https://www.linkedin.com/in/mohamed-shaban-taha-8782a0108/) 
 
