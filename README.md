@@ -1,5 +1,5 @@
-# Moamed Taha Resume
-Mohammed SH Taha Updated Resume
+# Moamed Shaban Taha Resume
+Mohammed Shaban Taha Updated Resume
 
 ### Updated CV
 
