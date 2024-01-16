@@ -23,10 +23,7 @@ o PHP Developer [Alatheer Tech](https://www.facebook.com/AlatheerTech)       1 J
 
 
 
-# Contibutions 
-## Auther/Maintainer
-- [mypos - Laravel](https://github.com/MohamedSHTAHA/mypos)
-- [decolux - Laravel](https://github.com/MohamedSHTAHA/decolux)
+
 
 
 
